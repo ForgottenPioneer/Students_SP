@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+      <login>IlyaGritchin</login>
+          <password>122t</password>
+              <type>teacher</type>
+  </user>
+<user>
+      <login>Ivan</login>
+          <password>122</password>
+              <type>student</type>
+  </user>
+<user>
+<login>Kostyan</login>
+<password>122</password>
+<type>student</type>
+</user>
+</users>
